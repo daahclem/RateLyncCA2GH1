@@ -1,0 +1,9 @@
+[
+  { "provider": "LemFi", "origin": "CA", "destination": "GH", "payout_method": "bank_transfer", "url": "https://lemfi.com/en-ca/", "send_amount": 1 },
+  { "provider": "Sendwave", "origin": "CA", "destination": "GH", "payout_method": "bank_transfer", "url": "https://www.sendwave.com/en-ca", "send_amount": 1 },
+  { "provider": "TapTap Send", "origin": "CA", "destination": "GH", "payout_method": "mobile_money", "url": "https://www.taptapsend.com/", "send_amount": 1 },
+  { "provider": "PayAngel", "origin": "CA", "destination": "GH", "payout_method": "bank_transfer", "url": "https://payangel.com/", "send_amount": 1 },
+  { "provider": "RemitChoice", "origin": "CA", "destination": "GH", "payout_method": "bank_transfer", "url": "https://www.remitchoice.com/", "send_amount": 1 },
+  { "provider": "RizRemit", "origin": "CA", "destination": "GH", "payout_method": "bank_transfer", "url": "https://rizremit.com/", "send_amount": 1 }
+  
+]
